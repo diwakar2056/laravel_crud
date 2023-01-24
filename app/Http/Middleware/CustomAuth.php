@@ -24,7 +24,7 @@ class CustomAuth
             //   echo "hey its me !!" . $path;
             
                 //
-                //echo "hey its me !";
+               echo "hey its me !";
             
                 //return redirect('/user-register');
                 //dd(Auth::User());
